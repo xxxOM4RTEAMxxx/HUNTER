@@ -1,2 +1,4 @@
 # HUNTER
-An discord spammer tool via webhook
+DUSCIRD SPAMMER TOOL THAT TOOL ONLY CAN SPAM AN WEBHOOK
+# CREDITS
+ME
